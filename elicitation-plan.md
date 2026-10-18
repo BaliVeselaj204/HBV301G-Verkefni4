@@ -1,8 +1,19 @@
 # Áætlun fyrir kröfusöfnunarviðtal
 
 ## Markmið
-- Hvaða viðskiptamarkmið (BO-1, BO-2, ...) eru upphafspunktur kröfusöfnunarinnar?
-- Hvað þurfið þið að komast að í viðtalinu til að geta greint þarfir notenda og sett þær fram sem notendakröfur?
+
+**Upphafspunktur kröfusöfnunar (viðskiptamarkmið):**
+- **BO-1:** Auka sölu miða á netinu um 10% innan þriggja mánaða
+- **BO-2:** Draga úr þörf fyrir afgreiðslu á staðnum innan þriggja mánaða
+
+**Það sem við þurftum að komast að í viðtalinu:**
+- Hvernig miðakaup fara fram í dag og hvar viðskiptavinir lenda í vandræðum.
+- Hvernig sama ferli ætti að fara fram í Bookit.
+- Hvaða upplýsingar kerfið þarf að sýna um hvern viðburð.
+- Hvernig viðskiptavinurinn fær miðann sinn og notar hann.
+- Hvernig netsala og afgreiðsla deila gögnum.
+- Hverjir nota kerfið og hvaða aðgang þeir þurfa (viðskiptavinir, viðburðastjóri, fyrirtæki).
+- Hvaða ytri kerfi þarf að tengja, t.d. greiðslur.
 
 ## Áætlaður staður og stund fyrir fundinn 
 Staður, dagur og tími
