@@ -16,33 +16,32 @@
 - Hvaða ytri kerfi þarf að tengja, t.d. greiðslur.
 
 ## Áætlaður staður og stund fyrir fundinn 
-Staður, dagur og tími
+Tæknigarður, HÍ, 8. október 2026, um kl. 14:00
 
 ## Þátttakendur og hlutverk
 
 ### Teymi A – kröfugreinendur
-- **Stjórnandi viðtals:** Hver stýrir viðtalinu og ber ábyrgð á að markmiðum þess sé náð?
-- **Ritari:** Hver skráir niðurstöður viðtalsins? Ef viðtalið er tekið upp, hver ber ábyrgð á upptöku og úrvinnslu hennar?
-- **Aðrir þátttakendur:** Hvaða hlutverki gegna aðrir meðlimir teymisins í viðtalinu?
+- **Stjórnandi viðtals:** Kristinn spurði flestar spurningar sem við höfðum.
+- **Ritari:** Ég sá um að skrá svörin niður og spurði ef eitthvað var óljóst.
 
 ### Teymi B – viðskiptavinur
-- Nafn þátttakenda frá viðskiptavinateyminu 
+- Máni Sverrisson og Rúnar Ágúst Sveinsson
 
 ## Aðferð kröfusöfnunar
-- Lýsið stuttlega hvernig þið ætlið að framkvæma viðtalið.
-- Undirbúið spurningar og viðfangsefni sem þið ætlið að taka fyrir í viðtalinu.
+- Við vorum með tilbúnar spurningar fyrirfram. Einn spurði og hin skráði svörin, og spurðum svo frekari
+  spurninga eftir því sem þær komu upp í viðtalinu.
 
 ## Dagskrá/Tímalína
-- 00:00–00:05 Kynning
-- 
-- Fyllið inn í eftir þörfum 
-- 
-- 00:55–01:00 Næstu skref
+- um 00:00–00:05 Kynning
+- um 00:05–00:25 Undirbúnar spurningar
+- um 00:25–00:35 Frekari spurningar sem komu upp í viðtalinu
+- um 00:35–00:40 Lokaorð
 
 ## Skráning niðurstaðna
-
-- Hvernig ætlið þið að skrá niðurstöður viðtalsins þannig að hægt sé að vinna úr þeim eftir fundinn?
+- Ritari skráði svörin jafnóðum í skjal. Eftir viðtalið fór hann yfir glósurnar
+  og raðaði svörunum undir réttar spurningar í skjalið.
 
 ## Áhætta sem getur hindrað kröfusöfnun 
-
-- Hvað gæti hindrað að kröfusöfnunin skili þeim upplýsingum sem þið þurfið?
+- Það var stundum smá erfitt að halda í við talhraða viðmælenda. Auk þess er varan þeirra
+  meira á bak við tjöldin, þar sem venjulegir notendur nota kerfið ekki beint heldur fyrirtæki
+  sem nota það sem sniðmát. Því var stundum erfitt að átta sig á hver notandinn væri og hvaða þörfum kerfið ætti að mæta.
