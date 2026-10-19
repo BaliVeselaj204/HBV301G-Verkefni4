@@ -38,22 +38,28 @@ Greinið helstu notkunartilvik sem komu fram við úrvinnslu kröfusöfnunarinna
 8. Kerfið sendir viðskiptavini miðann með SMS eða sem QR-kóða.
 
 ## Valflæði
-- A1: ...
+- A1: Viðskiptavinur er með aðgang og skráir sig inn áður en hann kaupir, í stað þess að kaupa án aðgangs.
+  Flæðið heldur svo áfram í skrefi 3.
 
 ## Undantekningar
-- E1: ...
+- E1: Of fáir miðar eru til. Kerfið lætur viðskiptavin vita og hann velur færri miða eða annan viðburð.
+- E2: Greiðslan mistekst eða er hafnað. Kerfið lætur viðskiptavin vita og hann getur reynt aftur.
+  Engin miðar eru skráðir sem seldir.
+- E3: Viðskiptavinur gerir villu í pöntun og biður starfsmann um að leiðrétta hana.
 
 ## Forgangur
-- ...
+- Hár. Þetta er kjarnavirkni kerfisins og styður BO-1 (Auka sölu miða á netinu um 10% innan þriggja mánaða).
 
 ## Tíðni notkunar
-- ...
+- Mjög oft, í hvert sinn sem viðskiptavinur kaupir miða á netinu. Erfitt að segja nákvæmlega hversu oft.
 
 ## Viðskiptareglur
-- BR-__ ...
+- BR-1: Sama miðann má ekki selja tvisvar. Netsala og afgreiðsla nota sama gagnagrunn til að tryggja það.
 
 ## Forsendur (Assumptions)
-- ...
+- Greiðslur fara í gegnum ytri greiðsluþjónustu (ytri skil).
+- Ekki þarf að stofna aðgang til að kaupa miða.
+- Kerfið er sniðmát fyrir miðakerfi sem fyrirtæki nota.
 
 ## Annað
-- ...
+- Kerfið hefur ekki sitt eigið vefsvæði (bookit.is). Mögulega birtist „powered by Bookit“ á vefsíðum fyrirtækjanna.
