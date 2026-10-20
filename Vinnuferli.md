@@ -10,7 +10,7 @@
 Við unnum verkefnið saman og skiptum verkum á milli okkar eins og við átti hverju sinni.
 Við vorum alltaf í sambandi í gegnum Discord eða bara í öðrum tímum sem við erum í.
 Hvort okkar vann sínar breytingar í eigin grein (branch) og opnaði pull request þegar
-verkinu var lokið. Hin fór svo yfir breytingarnar og stundum spurði ef eitthvað var
+verkinu var lokið. Hinn fór svo yfir breytingarnar og stundum spurði ef eitthvað var
 óljóst eða sameinaði í main ef allt leit vel út.
 
 ## Ígrundun
@@ -18,7 +18,7 @@ verkinu var lokið. Hin fór svo yfir breytingarnar og stundum spurði ef eitthv
   fóru í gegnum pull request og rýni. Viðtalið gekk líka vel í heildina. Við mættum með undirbúnar
   spurningar og gátum spurt frekari spurninga sem vöknuðu á meðan viðtalið var í gangi.
 
-**Dæmi um lærdóm:** Í viðtalinu við hitt teymið sá aðeins annað okkar um að skrá svörin á meðan hin
+**Dæmi um lærdóm:** Í viðtalinu við hitt teymið sá aðeins annað okkar um að skrá svörin á meðan hinn
   sá um að spyrja spurninganna sem búið var að undirbúa. Það reyndist svolítið erfitt að halda í við
   talhraða viðmælenda og ná að skrá allar nauðsynlegar upplýsingar. Næst gætum við beðið viðmælendur
   um að útskýra svör sín nánar og gefið okkur meiri tíma til að fara yfir svörin. Þannig gætum
