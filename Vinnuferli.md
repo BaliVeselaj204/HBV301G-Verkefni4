@@ -2,41 +2,61 @@
 
 ## Hópavinna og geymsla 
 
-Takið fram hverjir eru í hópnum, hver verkaskiptinging er, hvert Git repository er. 
-Hver og einn á að setja inn og viðhalda geymslunni (Git)
+**Hópmeðlimir:** Bali, Kristinn
+
+**Git repository:** https://github.com/BaliVeselaj204/HBV301G-Verkefni4.git
 
 ## Verkaskipting
-- Segið hvernig þið skiptið með ykkur verkum, t.d. hvernig þið unnið kröfurnar ein eða alltaf saman
-- Hvernig þið rýnduð kröfurnar hjá hvert öðru
-- Hvernig þið gerðuð pull, commit og push og Pull Request
+Við unnum verkefnið saman og skiptum verkum á milli okkar eins og við átti hverju sinni.
+Við vorum alltaf í sambandi í gegnum Discord eða bara í öðrum tímum sem við erum í.
+Hvort okkar vann sínar breytingar í eigin grein (branch) og opnaði pull request þegar
+verkinu var lokið. Hin fór svo yfir breytingarnar og stundum spurði ef eitthvað var
+óljóst eða sameinaði í main ef allt leit vel út.
 
 ## Ígrundun
-- Í lok verkefnis gerið endurmat á verkefninu:
-    - Hvað gekk vel í verkefninu
-    - Hvað má bæta næst
+**Hvað gekk vel:** Við skiptum verkum þannig að báðir höfðu nóg að gera og allar breytingar
+  fóru í gegnum pull request og rýni. Viðtalið gekk líka vel í heildina. Við mættum með undirbúnar
+  spurningar og gátum spurt frekari spurninga sem vöknuðu á meðan viðtalið var í gangi.
+
+**Dæmi um lærdóm:** Í viðtalinu við hitt teymið sá aðeins annað okkar um að skrá svörin á meðan hin
+  sá um að spyrja spurninganna sem búið var að undirbúa. Það reyndist svolítið erfitt að halda í við
+  talhraða viðmælenda og ná að skrá allar nauðsynlegar upplýsingar. Næst gætum við beðið viðmælendur
+  um að útskýra svör sín nánar og gefið okkur meiri tíma til að fara yfir svörin. Þannig gætum
+  við tryggt betur að allar mikilvægar upplýsingar væru skráðar að viðtali loknu.
+
+**Hvað við gætum breytt næst:**
+- Við biðjum um leyfi til að taka viðtalið upp, svo hægt sé að fylla í eyður eftir á.
+- Við förum aftur einu sinni en yfir svörin eftir viðtalið til að vera viss að allt passi.
 
 ## Gagnsæisyfirlýsing um notkun gervigreindar
- 
-Gagnsæisyfirlýsingin á að sýna bæði hvernig gervigreind var nýtt og hvert ykkar eigið framlag var. 
 
-1. **Verkfæri:** Hvaða gervigreindarverkfæri notuðuð þið? Nefnið verkfærin.
+1. **Verkfæri:** 
+  Við notuðum aðallega Claude, ChatGPT og AI leitarvéla eins og t.d. Google Gemini sem eru byggt í flestum leitarvélum í dag.
 
-2. **Kvaðningar (prompts):** Gefið 1–2 dæmi um kvaðningar sem sýna hvernig þið nýttuð gervigreind við verkefnið.
+2. **Kvaðningar (prompts):**  
+  T.d. „Do you know a word that describes this particular feature in Icelandic?“
+  eða „Do you know of any similar systems that could give me an idea of how this feature should work?“
+  o.s.frv. Þar sem flestar upplýsingar á netinu eru á ensku spyr ég yfirleitt á ensku frekar en íslensku,
+  enda fæ ég þá oft ítarlegri og gagnlegri svör.
 
-3. **Tilgangur:** Tilgreinið í hvaða tilgangi þið notuðuð gervigreind. Merkið við allt sem á við og útskýrið notkunina stuttlega fyrir neðan.
+3. **Tilgangur:**
 
-  - [ ] Yfirlestur á texta með tilliti til málnotkunar og framsetningar.
-  - [ ] Aðstoð við notkun verkfæra, t.d. Git og GitHub.
-  - [ ] Upplýsingaleit um viðfangsefni hugbúnaðarins.
+  - [X] Yfirlestur á texta með tilliti til málnotkunar og framsetningar.
+  - [X] Aðstoð við notkun verkfæra, t.d. Git og GitHub.
+  - [X] Upplýsingaleit um viðfangsefni hugbúnaðarins.
   - [ ] Útskýringar á námsefninu og hugtökum þess.
   - [ ] Hugmyndavinna: Tillögur að hugmyndum, greiningu eða lausnum sem nýttar voru í verkefninu.
-  - [ ] Efnisgerð: Gerð eða endurskoðun á texta, líkönum eða öðru efni sem skilað var í verkefninu.
+  - [X] Efnisgerð: Gerð eða endurskoðun á texta, líkönum eða öðru efni sem skilað var í verkefninu.
   - [ ] Annað (tilgreinið).
 
-Stutt útskýring: Lýsið nánar hvernig þið notuðuð gervigreind í þeim tilgangi sem þið merktuð við, sérstaklega ef hún var notuð við hugmyndavinnu eða efnisgerð. Tilgreinið hvaða hluta verkefnisins notkunin tengdist.
+Það er erfitt að segja nákvæmlega hvernig hver spurning flokkast, þar sem þetta er oft blanda af því sem
+við merktum fyrir ofan. Ég myndi segja að við notum hana frekar fyrir hluti sem tengjast verkefninu
+en til að þróa beint hugmyndir. Gervigreindin veit náttúrulega ekki hvað var sagt í fyrirlestrum,
+þannig að hún nýtist yfirleitt ekki eins vel í þeim atriðum. Annars hjálpar hún ef maður hefur spurningar sem maður
+myndi þurfa leita á netinu t.d.
 
-4. **Úrvinnsla:** Lýsið hvernig þið yfirfóruð, mátuð og nýttuð úttak gervigreindar í verkefninu. Ef gervigreind var notuð við hugmyndavinnu eða gerð efnis, gefið dæmi um hvernig þið mátuð tillögur hennar og rökstyðjið hvers vegna þið ákváðuð að nýta þær.
+4. **Úrvinnsla:**
 
-Ef gervigreind var notuð við ólíka þætti verkefnisins skuluð þið gera grein fyrir helstu notkunartilvikum.
-Ef gervigreind var ekki notuð við vinnslu verkefnisins skal það koma fram í gagnsæisyfirlýsingunni.
-
+Við förum yfir það sem við gerum sjálf væntanlega og förum svo aftur yfir breytingarnar í gegnum pull requests.
+Þannig tryggjum við að við séum báðir sáttir með breytingarnar áður en þær eru samþykktar. Auk þess dregur þetta
+úr líkum á villum.
